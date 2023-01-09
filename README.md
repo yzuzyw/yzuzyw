@@ -1,7 +1,10 @@
 const ashraf = {
-    pronouns: "She" | "Her",
-    askMeAbout: ["JavaScript", "Java", "C"],
-    system: ["LinuxUbuntu", "Windows10" ],
+   
+   pronouns: "She" | "Her",
+   
+   askMeAbout: ["JavaScript", "Java", "C"],
+   
+   system: ["LinuxUbuntu", "Windows10" ],
    
    }
 
